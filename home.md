@@ -3,8 +3,9 @@
 ## Sobre Mim
 
 Olá! Meu nome é Nina.
-Sou formada em Ciências Sociais com ênfase em Política Econômica e atualmente atuo com análise operacional, indicadores, relatórios gerenciais e suporte à gestão.
-Ao longo da minha trajetória profissional cresci internamente na empresa, passando por funções de estágio, monitoria, liderança e supervisão, até atuar diretamente com atividades relacionadas à análise de dados e desempenho operacional.
+
+Sou formada em Ciências Sociais com ênfase em Política Econômica, e atualmente atuo com análise operacional, indicadores, relatórios gerenciais e suporte à gestão.
+Ao longo da minha trajetória profissional passei por funções de estágio, monitoria, liderança e supervisão, até atuar diretamente com atividades relacionadas à análise de dados e desempenho operacional.
 
 Hoje trabalho com:
 
