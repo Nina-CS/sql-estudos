@@ -8,23 +8,15 @@ O objetivo não é apenas documentar conteúdos estudados, mas também refletir 
 Ao revisitar estas anotações no futuro, espero enxergar não apenas o que aprendi, mas também como evoluí na forma de pensar, analisar dados e resolver problemas.
 
 ---
+### 30/08/2026
 
-## Semana 1 | 30/08/2026
+✅ Aprendi:
+- O que é SQL
+- O que é um banco de dados relacional
 
-### O que estudei
--
+📝 Entendi que:
+- SQL é uma linguagem utilizada para consultar e manipular dados.
+- Bancos relacionais armazenam informações em tabelas relacionadas entre si.
 
-### O que aprendi
-- 
-
-### Principais dificuldades
-- 
-
-### Reflexão da semana
-?
-
-### Próximos passos
-- 
-
-### Pergunta para meu eu do futuro
-?
+🎯 Próximo passo:
+- Aprender Select
