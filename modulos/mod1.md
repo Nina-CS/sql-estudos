@@ -1,243 +1,108 @@
-# Apoio à Evolução Profissional
+# 📚 Fundamentos de SQL
 
-Este documento reúne avaliações externas, evidências de progresso e competências desenvolvidas durante minha transição para Dados e Business Intelligence.
+## 🎯 Conteúdos
 
-O objetivo deste arquivo é acompanhar minha evolução com base em fatos, projetos, habilidades e entregas concretas.
-
----
-
-# Ponto de Partida
-
-## Idade
-27 anos
-
-## Formação
-Ciências Sociais com ênfase em Política Econômica
-
-## Experiência Profissional
-
-- Estagiária
-- Monitora
-- Líder de equipe
-- Supervisora operacional
-
-## Atividades atuais
-
-- Criação de relatórios gerenciais
-- Monitoramento de indicadores
-- Apoio à gestão
-- Análises operacionais
-- Uso avançado de Excel
-- Validação e manutenção de dashboards Power BI
-
-## Conhecimentos técnicos iniciais
-
-### Já possuo experiência
-
-- Excel
-- Indicadores
-- Relatórios
-- Operação
-- Dashboards
-
-### Em desenvolvimento
-
-- SQL
-- GitHub
-- Portfólio
-- Modelagem de dados
-
-``
-
-# Diagnóstico Inicial
-
-Minha transição para Dados não parte do zero.
-
-Apesar de estar iniciando SQL formalmente, já atuo com:
-
-- Análise de indicadores
-- Reporting gerencial
-- Interpretação de métricas
-- Suporte à tomada de decisão
-- Dashboards Power BI
-
-Ponto forte identificado:
-
-Conhecimento de negócio aliado à experiência em operações e gestão.
-
-Principal foco de desenvolvimento:
-
-Fortalecimento das competências técnicas em SQL e Power BI.
+- O que é SQL
+- Conceitos de Banco de Dados Relacional
+- Principais aplicações e funções da linguagem SQL
 
 
-# Linha do Tempo
 
-## Agosto 2026
+## 🚀 Habilidades Desenvolvidas
 
-### Conquistas
-
-✅ Criei meu repositório de estudos em SQL
-
-✅ Organizei módulos de aprendizagem
-
-✅ Estruturei controle de progresso
-
-✅ Iniciei fundamentos de banco de dados
-
-### Habilidades observadas
-
-- Organização
-- Planejamento
-- Visão de longo prazo
-- Aprendizado autodidata
-
-### Evidências
-
-- Criação do repositório
-- Estrutura de módulos
-- Documentação dos estudos
-
-### Avaliação
-
-Primeiro passo concreto na transição para Dados.
+- Compreender o papel do SQL no armazenamento e análise de dados
+- Entender a estrutura de bancos de dados relacionais
+- Identificar os principais usos do SQL na manipulação e consulta de dados
 
 
-# Competências Demonstradas
-
-## Análise de Dados
-
-Status: Já demonstrada
-
-Evidências:
-
-- Indicadores operacionais
-- Relatórios gerenciais
-- Apoio à gestão
 
 ---
 
-## Business Intelligence
+## 💬 O que é SQL?
 
-Status: Já demonstrada
+**SQL (Structured Query Language)** = Linguagem de Consulta Estruturada.
 
-Evidências:
+É a linguagem utilizada para se comunicar com bancos de dados.
 
-- Participação em dashboards Power BI
-- Validação de métricas
-- Controle de indicadores
-
----
-
-## SQL
-
-Status: Em desenvolvimento
-
-Evidências atuais:
-
-- Estudo estruturado
-- Registro de aprendizado
-
-Próxima evidência esperada:
-
-- Primeiras consultas com SELECT
+> 📚 Se o banco de dados é uma biblioteca, SQL é a língua que usamos para pedir um livro.
 
 
-# Evidências Contra a Síndrome da Impostora
-
-## Fato
-
-Fui promovida internamente diversas vezes.
-
-### Interpretação baseada em fatos
-
-Meu crescimento profissional foi reconhecido pela empresa.
 
 ---
 
-## Fato
+## 🏛️ Banco de Dados
 
-Produzo relatórios utilizados pela gestão.
+### 1️⃣ Banco de Dados Relacional
 
-### Interpretação baseada em fatos
+É um tipo de banco de dados que organiza informações em tabelas que se relacionam entre si.
 
-Meu trabalho apoia decisões reais.
+
+
+### 📊 Conceitos Básicos
+
+📊 **Banco de Dados**
+
+Conjunto de tabelas que armazenam informações e podem ser conectadas entre si por chaves.
+
+
+
+🔗 **Relacionamento**
+
+Ligação entre tabelas que permite combinar informações diferentes.
+
+
+
+💬 **SQL**
+
+Linguagem utilizada para consultar, filtrar, organizar e cruzar dados entre tabelas.
+
+> 💡 Um banco de dados relacional é como várias planilhas de Excel conectadas por colunas em comum, permitindo análises mais completas e eficientes.
+
+
+
+
+### 🔄 Excel x SQL
+
+| Excel | SQL |
+|--------|--------|
+| Filtro | WHERE |
+| PROCV/PROCX | JOIN |
+| Escolher colunas | SELECT |
+| Classificar | ORDER BY |
+| Tabela Dinâmica | GROUP BY |
+| Cont.SE | COUNT() |
+| SOMASE | SUM() |
+| MÉDIASE | AVG() |
+| Remover Duplicatas | DISTINCT |
+
 
 ---
 
-## Fato
-
-Participo da validação de dashboards.
-
-### Interpretação baseada em fatos
-
-Já possuo contato com processos de BI.
-
----
-
-## Fato
-
-Comecei a estudar SQL.
-
-### Interpretação baseada em fatos
-
-Estou investindo no desenvolvimento das competências técnicas necessárias para a transição.
 
 
-# Como o Mercado Pode Enxergar Meu Perfil
+## ⚙️ O que é um SGBD?
 
-Profissional com experiência em operações, indicadores e gestão, atualmente fortalecendo competências técnicas em BI e Análise de Dados.
+**SGBD** significa **Sistema Gerenciador de Banco de Dados**.
 
-Experiências relevantes:
-
-- Reporting
-- Excel
-- Indicadores
-- Dashboards
-- Análise operacional
-
-Competências em desenvolvimento:
-
-- SQL
-- Modelagem de dados
-- Power BI avançado
+É o software responsável por criar, armazenar, organizar, controlar e proteger os dados de um banco de dados.
 
 
-# Status Atual
 
-Data da última atualização:
-30/08/2026
+### 🧠 Analogia da Biblioteca
 
-SQL:
-🟡 Iniciante
+> 📚 **Livros** → Dados
+>
+> 🏛️ **Biblioteca** → Banco de Dados
+>
+> 👨‍💼 **Bibliotecário** → SGBD
+>
+> 🗣️ **Idioma usado para pedir os livros** → SQL
 
-Power BI:
-🟡 Intermediário inicial
 
-Excel:
-🟢 Aplicação profissional
+### ✅ Exemplos de SGBDs
 
-Análise de Dados:
-🟢 Aplicação profissional
-
-Portfólio:
-🟡 Em construção
-
-GitHub:
-🟡 Em construção
-
----
-
-# Avaliação Externa Inicial
-
-A profissional não inicia sua jornada em Dados do zero.
-
-Já demonstra competências de análise por meio de:
-
-- Indicadores operacionais
-- Relatórios gerenciais
-- Apoio à tomada de decisão
-- Validação de dashboards
-
-O principal movimento atual é transformar experiência prática em competências técnicas reconhecidas pelo mercado.
-
-A organização dos estudos, a documentação da aprendizagem e a criação de um portfólio indicam uma transição de carreira estruturada e consistente.
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 🏢 SQL Server
+- 🔶 Oracle Database
+- 🍃 MongoDB (não relacional)
