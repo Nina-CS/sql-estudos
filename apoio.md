@@ -47,8 +47,6 @@ Ciências Sociais com ênfase em Política Econômica
 - Portfólio
 - Modelagem de dados
 
-``
-
 # Diagnóstico Inicial
 
 Minha transição para Dados não parte do zero.
