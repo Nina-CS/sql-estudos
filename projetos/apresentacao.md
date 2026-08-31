@@ -8,82 +8,48 @@ O objetivo é aplicar conceitos estudados em cenários próximos aos desafios en
 
 ---
 
-# 🎯 Objetivos
+### 🎯 Competências Desenvolvidas
 
 Cada projeto busca desenvolver competências como:
 
-- 🔎 Exploração e entendimento de bases de dados
-- 🧹 Limpeza e organização de informações
-- 💻 Construção de consultas SQL
-- 📈 Análise e interpretação de resultados
-- 💡 Geração de insights orientados por dados
+- Exploração e entendimento de bases de dados
+- Limpeza e organização de informações
+- Construção de consultas SQL
+- Análise e interpretação de resultados
+- Geração de insights orientados por dados
 
 <br>
 
 ---
 
-# 🚀 Projetos Planejados
+## 🚀 Projetos Planejados
 
-- 📊 Projeto 01
-- 📊 Projeto 02
-- 📊 Projeto 03
+-
 
 <br>
 
 ---
 
-# 🗂️ Estrutura dos Projetos
+## 🗂️ Estrutura dos Projetos
 
 Cada projeto deverá conter:
 
 <br>
 
-### 🎯 Contexto do Problema
+- 🎯 Contexto do problema
 
-Descrição do cenário e do desafio a ser resolvido.
+- 🗄️ Base de dados utilizada
 
-<br>
+- ❓ Perguntas de negócio
 
-### 🗄️ Base de Dados Utilizada
+- 💻 Consultas SQL desenvolvidas
 
-Informações sobre a origem e estrutura dos dados.
+- 📈 Principais descobertas e insights
 
-<br>
-
-### ❓ Perguntas de Negócio
-
-Questões que orientarão a análise.
-
-<br>
-
-### 💻 Consultas SQL Desenvolvidas
-
-Consultas utilizadas para extração, tratamento e análise dos dados.
-
-<br>
-
-### 📈 Principais Descobertas e Insights
-
-Resultados obtidos e interpretações relevantes.
-
-<br>
-
-### 🔮 Possíveis Melhorias Futuras
-
-Evoluções e análises complementares que poderão ser desenvolvidas posteriormente.
+- 🔮 Possíveis melhorias futuras
 
 <br>
 
 ---
 
 > 💡 O foco não é apenas aprender SQL, mas desenvolver a capacidade de transformar dados em conhecimento e apoiar decisões por meio da análise.
-
-<br>
-
-> 🚀 Cada projeto representa uma oportunidade de aplicar conceitos, desenvolver raciocínio analítico e construir experiência prática em dados.
-- Consultas SQL desenvolvidas
-- Principais descobertas e insights
-- Possíveis melhorias futuras
-
-
-> O foco não é apenas aprender SQL, mas desenvolver a capacidade de transformar dados em conhecimento e apoiar decisões por meio da análise.
