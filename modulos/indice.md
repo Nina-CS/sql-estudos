@@ -1,24 +1,36 @@
-# Módulos de Estudo
+# 📚 Módulos de Estudo
 
 Esta pasta reúne os conteúdos estudados ao longo da minha jornada de aprendizado em SQL.
 
-## Estrutura
+<br>
 
-## 1. Fundamentos
+---
 
-### Conteúdos
+# 🗂️ Estrutura
+---
+
+## 📚 1. Fundamentos
+
+### 🎯 Conteúdos
+
 - O que é SQL
 - Conceitos de banco de dados relacional
 - Principais aplicações e funções da linguagem SQL
 
-### Habilidades Desenvolvidas
+### 🚀 Habilidades Desenvolvidas
+
 - Compreender o papel do SQL no armazenamento e análise de dados
 - Entender a estrutura de bancos de dados relacionais
 - Identificar os principais usos do SQL na manipulação e consulta de dados
 
-## 2. Consultando Dados
+<br>
 
-### Conteúdos
+---
+
+## 🔎 2. Consultando Dados
+
+### 🎯 Conteúdos
+
 - Comando `SELECT`
 - Tipos de dados
 - Operadores de comparação e filtros:
@@ -34,16 +46,22 @@ Esta pasta reúne os conteúdos estudados ao longo da minha jornada de aprendiza
 - Limitação de resultados
 - Remoção de duplicidades (`DISTINCT`)
 
-### Habilidades Desenvolvidas
+<br>
+
+### 🚀 Habilidades Desenvolvidas
+
 - Realizar consultas em bancos de dados
 - Filtrar e organizar informações
 - Extrair dados para análises e relatórios
 
+<br>
+
 ---
 
-## 3. Juntando Dados
+## 🔗 3. Juntando Dados
 
-### Conteúdos
+### 🎯 Conteúdos
+
 - Junções de tabelas:
   - `INNER JOIN`
   - `LEFT JOIN`
@@ -56,16 +74,22 @@ Esta pasta reúne os conteúdos estudados ao longo da minha jornada de aprendiza
   - `INTERSECT`
   - `EXCEPT` / `MINUS`
 
-### Habilidades Desenvolvidas
+<br>
+
+### 🚀 Habilidades Desenvolvidas
+
 - Combinar dados de múltiplas tabelas
 - Utilizar aliases para melhorar a legibilidade das consultas
 - Consolidar e comparar conjuntos de resultados
 
+<br>
+
 ---
 
-## 4. Agrupando Dados
+## 📊 4. Agrupando Dados
 
-### Conteúdos
+### 🎯 Conteúdos
+
 - Operadores e funções aritméticas
 - Funções de agregação:
   - `COUNT()`
@@ -77,16 +101,22 @@ Esta pasta reúne os conteúdos estudados ao longo da minha jornada de aprendiza
 - Filtragem de dados agrupados
 - Cláusula `EXISTS`
 
-### Habilidades Desenvolvidas
+<br>
+
+### 🚀 Habilidades Desenvolvidas
+
 - Resumir grandes volumes de dados
 - Criar métricas e indicadores
 - Gerar análises agregadas para relatórios
 
+<br>
+
 ---
 
-## 5. Manipulando Dados
+## ⚙️ 5. Manipulando Dados
 
-### Conteúdos
+### 🎯 Conteúdos
+
 - Manipulação de registros:
   - `INSERT`
   - `UPDATE`
@@ -95,6 +125,16 @@ Esta pasta reúne os conteúdos estudados ao longo da minha jornada de aprendiza
   - `CREATE TABLE`
   - `ALTER TABLE`
   - `DROP TABLE`
+  - `TRUNCATE TABLE`
+ 
+<br>
+
+### 🚀 Habilidades Desenvolvidas
+
+- Inserir, atualizar e remover registros
+- Criar e modificar estruturas de banco de dados
+- Gerenciar tabelas e seus dados
+---
   - `TRUNCATE TABLE`
 
 ### Habilidades Desenvolvidas
