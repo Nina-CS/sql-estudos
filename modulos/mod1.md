@@ -1,32 +1,35 @@
-# 📚 Fundamentos de SQL
+## 📚 1. Fundamentos
 
-## 🎯 Conteúdos
+### 🎯 Conteúdos
 
 - O que é SQL
-- Conceitos de Banco de Dados Relacional
+- Conceitos de banco de dados relacional
 - Principais aplicações e funções da linguagem SQL
 
+<br>
 
-
-## 🚀 Habilidades Desenvolvidas
+---
+### 🚀 Habilidades Desenvolvidas
 
 - Compreender o papel do SQL no armazenamento e análise de dados
 - Entender a estrutura de bancos de dados relacionais
 - Identificar os principais usos do SQL na manipulação e consulta de dados
 
-
+<br>
 
 ---
 
 ## 💬 O que é SQL?
 
-**SQL (Structured Query Language)** = Linguagem de Consulta Estruturada.
+**Structured Query Language** = Linguagem de Consulta Estruturada.
 
-É a linguagem utilizada para se comunicar com bancos de dados.
+Ele é usado para comunicação em *Banco de Dados.*
 
-> 📚 Se o banco de dados é uma biblioteca, SQL é a língua que usamos para pedir um livro.
+> 📚 Se o banco de dados é uma biblioteca,
+>
+> 🗣️ SQL é a língua que usamos para pedir um livro.
 
-
+<br>
 
 ---
 
@@ -34,34 +37,37 @@
 
 ### 1️⃣ Banco de Dados Relacional
 
-É um tipo de banco de dados que organiza informações em tabelas que se relacionam entre si.
+É um banco de dados, que organiza os dados/informações em tabelas que se relacionam entre si.
 
-
-
-### 📊 Conceitos Básicos
+<br>
 
 📊 **Banco de Dados**
 
-Conjunto de tabelas que armazenam informações e podem ser conectadas entre si por chaves.
+ É um conjunto de tabelas que armazenam informações e podem ser conectadas entre si por chaves.
 
-
+<br>
 
 🔗 **Relacionamento**
 
-Ligação entre tabelas que permite combinar informações diferentes.
-
-
+É a ligação entre tabelas que permite combinar informações diferentes.
+  
+<br>
 
 💬 **SQL**
 
-Linguagem utilizada para consultar, filtrar, organizar e cruzar dados entre tabelas.
+É a linguagem usada para consultar, filtrar, organizar e cruzar dados entre tabelas.
 
-> 💡 Um banco de dados relacional é como várias planilhas de Excel conectadas por colunas em comum, permitindo análises mais completas e eficientes.
+<br>
 
+---
 
+**🧠 Analogia**
 
+> 💡 Um banco de dados relacional é como várias planilhas de Excell que possuem uma coluna em comum e podem ser conectadas automaticamente para fazer análises muito maiores.
 
-### 🔄 Excel x SQL
+<br>
+
+**🔄 Excel x SQL**
 
 | Excel | SQL |
 |--------|--------|
@@ -75,29 +81,29 @@ Linguagem utilizada para consultar, filtrar, organizar e cruzar dados entre tabe
 | MÉDIASE | AVG() |
 | Remover Duplicatas | DISTINCT |
 
-
 ---
-
-
+<br>
 
 ## ⚙️ O que é um SGBD?
 
-**SGBD** significa **Sistema Gerenciador de Banco de Dados**.
+**Sistema Gerenciador de Banco de Dados**
 
-É o software responsável por criar, armazenar, organizar, controlar e proteger os dados de um banco de dados.
+É o software usado para criar, organizar, e proteger os dados de um banco.
 
+<br>
 
+---
+**🧠 Analogia da Biblioteca**
 
-### 🧠 Analogia da Biblioteca
-
-> 📚 **Livros** → Dados
+> 📚 **Livros** = Dados
 >
-> 🏛️ **Biblioteca** → Banco de Dados
+> 🏛️ **Biblioteca** = Banco de Dados
 >
-> 👨‍💼 **Bibliotecário** → SGBD
+> 👨‍💼 **Bibliotecário** = SGBD (Sistema de Gerenciamento de Banco de Dados)
 >
-> 🗣️ **Idioma usado para pedir os livros** → SQL
+> 🗣️ **Idioma usado para pedir os livros** = SQL
 
+---
 
 ### ✅ Exemplos de SGBDs
 
@@ -105,4 +111,5 @@ Linguagem utilizada para consultar, filtrar, organizar e cruzar dados entre tabe
 - 🐘 PostgreSQL
 - 🏢 SQL Server
 - 🔶 Oracle Database
-- 🍃 MongoDB (não relacional)
+- 🍃 MongoDB
+``
